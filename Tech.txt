@@ -1,2 +1,3 @@
 Created new file to commit and merge and pick
 
+following git command to merge without using merge 
